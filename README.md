@@ -1,84 +1,112 @@
-# Hi — I’m Susheel Kumar 👋
+# Hi, I'm Susheel Kumar 👋
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&lines=Backend+Developer;AI+Engineer;GenAI;Python+%7C+Microservices" alt="Typing SVG" />
+</p>
 
 ### Backend Developer | AI Engineer | GenAI | Python | Microservices
 
-I build backend systems and production-ready AI/GenAI features that solve engineering problems — from API design and microservices to retrieval-augmented generation (RAG) and embedding-based search. My work focuses on Python-first backends, LLM integrations, and automation for complex systems (including network device workflows).
+I build backend systems and AI-powered applications for real engineering problems — combining Python, REST APIs, microservices, retrieval-augmented generation (RAG), and automation workflows for network-scale systems.
 
 ---
 
-## 🔭 Current focus
-- Building AI-powered assistants and RAG systems that combine document processing, embeddings, and relevance ranking.
-- Designing scalable backend APIs and microservices for automation and orchestration.
-- Network automation workflows for large router fleets (topology-aware upgrades, validation, and observability).
+## Current focus
+
+- Building AI-powered assistants and retrieval pipelines for technical documentation and knowledge access.
+- Designing backend APIs and microservices for automation, orchestration, and data workflows.
+- Working on network automation and router lifecycle workflows, including upgrade validation and device orchestration.
 
 ---
 
-## ⚙️ Technical stack
+## Tech stack
 
-Languages
-- Python, TypeScript, HTML/CSS
+### Languages
+- Python
+- TypeScript
+- HTML / CSS
 
-Backend
-- FastAPI / Django · REST APIs · Microservices · Async programming
+### Backend
+- FastAPI
+- Django
+- REST APIs
+- Microservices
+- API design
+- Backend engineering
 
-AI / GenAI
-- LLMs · RAG pipelines · Prompt engineering · Embeddings · FAISS/Vector stores
+### AI / GenAI
+- LLMs
+- RAG
+- Prompt engineering
+- Embeddings
+- Question answering
+- Knowledge bases
+- Model evaluation
 
-Databases & Storage
-- SQLite (dev), PostgreSQL, MongoDB, Redis (familiar from projects & experience)
+### Databases & infrastructure
+- MongoDB
+- PostgreSQL
+- MySQL
+- Redis
+- Docker
+- Kubernetes
+- Linux / Unix
+- Git
 
-Infrastructure & DevOps
-- Docker · Kubernetes · Linux · Git · CI-friendly service design
-
-Networking & Automation
-- Network device automation concepts (NETCONF, YANG, SNMP) · Device orchestration · Post-upgrade validation
-
-Tools
-- Streamlit · Postman · VS Code
+### Networking & automation
+- Network automation
+- NETCONF
+- YANG
+- SNMP
+- Router configuration automation
+- Network monitoring
+- Upgrade automation
 
 ---
 
-## ⭐ Featured projects
-(Quick links — open these first)
+## Featured projects
 
-- [langchain](https://github.com/SUSHEELBAHUROJU/langchain) — RockyBot: a news research RAG tool demonstrating embedding, FAISS index, and Streamlit UI.
-  (AI / RAG / embeddings / FAISS / Streamlit)
-
-- [Dhandhasuru](https://github.com/SUSHEELBAHUROJU/Dhandhasuru) — B2B credit guarantee platform prototype (backend + frontend).
-  (Backend design, frontend prototype, microservice-ready structure)
-
-- [djando](https://github.com/SUSHEELBAHUROJU/djando) — Django sample app (food app).
-  (Django project demonstrating web backend basics, models, migrations)
+- [langchain](https://github.com/SUSHEELBAHUROJU/langchain) — News research and question-answering system using GenAI, embeddings, and vector search.
+- [Dhandhasuru](https://github.com/SUSHEELBAHUROJU/Dhandhasuru) — B2B credit guarantee platform prototype with backend and frontend components.
+- [djando](https://github.com/SUSHEELBAHUROJU/djando) — Django web application demonstrating backend fundamentals, models, and app structure.
 
 ---
 
 ## Engineering interests
-- Building reliable retrieval pipelines: document loaders → text splitters → embeddings → vector store → reranking
-- Designing robust backend APIs for model serving and data pipelines
-- Distributed workflows and topology-aware orchestration for network devices
-- Evaluation pipelines for model outputs and retrieval relevance
+
+- Building retrieval pipelines for technical knowledge systems
+- Designing scalable backend services and APIs
+- AI-assisted workflows for documentation and troubleshooting
+- Observability, validation, and orchestration in distributed systems
+- Network automation and device lifecycle workflows
 
 ---
 
-## Education & experience
-- Master’s / PGP in Artificial Intelligence — VIT (CGPA 9.54/10)
-- B.Tech in Computer Science and Engineering — VIT (CGPA 8.24/10)
-- HFCL — Engineer (Aug 2025 – Present) — backend & network automation (topology-aware upgrade framework, AI assistant for routers)
-- QuantumCona — Intern (Nov 2024 – May 2025)
+## Education
 
-Certifications
+- Master’s / PGP in Artificial Intelligence, VIT — CGPA 9.54/10
+- B.Tech in Computer Science and Engineering, VIT — CGPA 8.24/10
+
+## Certifications
+
 - Python Certification — HackerRank
 - Advanced Algorithms and Complexity — Coursera
 - Data Analysis Workshop — IEEE, VIT
 
+## Experience
+
+- HFCL — Engineer, Aug 2025 – Present
+- QuantumCona — Intern, Nov 2024 – May 2025
+
 ---
 
 ## Contact
+
 - GitHub: https://github.com/SUSHEELBAHUROJU
 - LinkedIn: https://www.linkedin.com/in/susheel-kumar-bahuroju-0b115818a/
 - Email: susheelbahuroju@gmail.com
 
 ---
 
-## A note
-I’m focused on building backend systems and AI-powered experiences that are practical, maintainable, and grounded in real engineering problems.
+<p align="center">
+  <i>Building practical backend systems and AI experiences that solve real engineering problems.</i>
+</p>
